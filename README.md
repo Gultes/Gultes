@@ -7,7 +7,7 @@
 
 - 📝 Escrevo artigos sobre Git, Front End e uso de API's em [https://web.digitalinnovation.one/](https://web.digitalinnovation.one/)
 
-- 💬 Pergunte me sobre **Angular, CSS e JavaScript**
+- 💬 Pergunte me sobre **Angular, React, CSS e JavaScript**
 
 - 📧 Como me contatar: **gustavoestevamsena@gmail.com**
 
