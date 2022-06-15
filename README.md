@@ -1,7 +1,7 @@
 <h3 align="center">Olá, eu sou o Gustavo Estevam Sena - Gultes</h3>
 <h3 align="center">Sou apaixonado por desenvolvimento Front End, além de animes, jogos, conhecer novas pessoas e explorar diferentes culturas.</h3>
 
-- 🎓 Atualmente estou aprendendo **ReactJS para o Front End e Kotlin para o Desenvolvimento Móvel**
+- 🎓 Atualmente estou aprendendo **React + Nest JS**
 
 - 👊 Estou procurando colaborar com **projetos de Front End e Desenvolvimento Móvel**
 
