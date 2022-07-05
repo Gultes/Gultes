@@ -1,17 +1,13 @@
-<h3 align="center">Olá, eu sou o Gustavo Estevam Sena - Gultes</h3>
-<h3 align="center">Sou apaixonado por desenvolvimento Front End, além de animes, jogos, conhecer novas pessoas e explorar diferentes culturas.</h3>
+<h4 align="center">Hello, i'm Gustavo Estevam</h4>
+<h4 align="center">A passionate fullstack developer who loves creating beautiful, responsive and conscious applications. I also love animes, gaming and meeting new people.</h4>
 
-- 🎓 Atualmente estou aprendendo **React, Nest JS** e também **PHP e Laravel (de forma acadêmica)**
+- 🎓 I'm currently working with React + NodeJS + Typescript
 
-- 👊 Estou procurando colaborar com **projetos de Front End e Desenvolvimento Móvel**
+- 👊 I'm looking for opportunities in Front End or FullStack Web, mainly using React
 
-- 📝 Escrevo artigos sobre Git, Front End e uso de API's em [https://web.digitalinnovation.one/](https://web.digitalinnovation.one/)
+- 📝 I've published some content about git/github and utilities in [https://web.dio.me/articles]
 
-- 💬 Pergunte me sobre **Angular, React, CSS e JavaScript**
-
-- 📧 Como me contatar: **gustavoestevamsena@gmail.com**
-
-- 💢 Fato Curioso **Fui líder de várias Guildas de jogos online, o que me ajudou a desenvolver a comunicação Interpessoal, além disso, faço lives na twitch: https://www.twitch.tv/gultes**
+- 💢 Fato Curioso: Fiz lives na twitch entre 2018-2021 sobre jogos, além de Liderar algumas Guildas em jogos, o que ajudou a desenvolver o relacionamento interpessoal: https://www.twitch.tv/gultes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
