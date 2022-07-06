@@ -12,6 +12,8 @@
 <h4>Snake Eating my Currently Year Contribution Graph</h4>
 
 ![snake gif](https://github.com/Gultes/Gultes/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
