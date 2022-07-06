@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently working with React + NodeJS + Typescript
 
-- 👊 I'm looking for opportunities in Front End or FullStack Web, mainly using React
+- 👊 I'm looking for opportunities in Front End or FullStack Web, mainly using TypeScript
 
 - 📝 I've published some content about git/github and utilities in [https://web.dio.me/articles]
 
