@@ -1,9 +1,9 @@
 <h4 align="center">Hello, i'm Gustavo Estevam</h4>
 <h4>A fullstack developer who is pasionate about creating beautiful, responsive and conscious applications. I also love animes, gaming and meeting new people.</h4>
 
-- 🎓 I'm currently working with React + NodeJS + Typescript
+- 🎓 I'm currently working with React + NodeJS [Using TypeScript]
 
-- 👊 I'm looking for opportunities in Front End or FullStack Web, mainly using TypeScript
+- 👊 I'm looking for opportunities in Front End or FullStack Web, mainly using Javascript
 
 - 📝 I've published some content about git/github and utilities in [https://web.dio.me/articles]
 
