@@ -1,7 +1,5 @@
 <h4 align="center">Hello, i'm Gustavo Estevam</h4>
-<h4 align="center">A passionate fullstack developer who loves creating beautiful, responsive and conscious applications. I also love animes, gaming and meeting new people.</h4>
-
-![snake gif](https://github.com/Gultes/Gultes/blob/output/github-contribution-grid-snake.gif)
+<h4>A fullstack developer who is pasionate about creating beautiful, responsive and conscious applications. I also love animes, gaming and meeting new people.</h4>
 
 - 🎓 I'm currently working with React + NodeJS + Typescript
 
@@ -9,7 +7,11 @@
 
 - 📝 I've published some content about git/github and utilities in [https://web.dio.me/articles]
 
-- 💢 Fato Curioso: Fiz lives na twitch entre 2018-2021 sobre jogos, além de Liderar algumas Guildas em jogos, o que ajudou a desenvolver o relacionamento interpessoal: https://www.twitch.tv/gultes
+- 💢 Fun fact. I used to make lives about games on Twitch, from 2018 to 2021, this helped me to develop interpersonal skills, sometimes i still go there: https://www.twitch.tv/gultes
+
+<h4>Snake Eating my Currently Year Contribution Graph</h4>
+
+![snake gif](https://github.com/Gultes/Gultes/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
