@@ -7,7 +7,7 @@
 
 - 📝 I've published some content about git/github and utilities in [https://web.dio.me/articles]
 
-- 💢 Fun fact. I used to make lives about games on Twitch, from 2018 to 2021, this helped me to develop interpersonal skills, sometimes i still go there: https://www.twitch.tv/gultes
+- 💢 Fun fact. I used to make lives about games on Twitch, from 2018 to 2021, this helped me to develop interpersonal skills, sometimes I still go there: https://www.twitch.tv/gultes
 
 <h4>Snake Eating my Currently Year Contribution Graph</h4>
 
