@@ -30,7 +30,7 @@
 
 <h3 align="left">Coming Soon:</h3>
 
- Kotlin, Phyton.
+ Kotlin, Flutter, Phyton, Unity. MongoDB
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gultes&bg_color=00000000&hide_border=true&show_icons=true&locale=en&layout=compact" alt="gultes" /></p>
 
