@@ -34,5 +34,3 @@ Java, Unity [C++]. MongoDB
  
 <h3 align="left">I also have knowledge about</h3>
 Kotlin, Flutter, Angular.
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gultes&bg_color=00000000&hide_border=true&show_icons=true&locale=en&layout=compact" alt="gultes" /></p>
